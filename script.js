@@ -133,7 +133,7 @@ document.addEventListener("DOMContentLoaded", () => {
       e.preventDefault();
       const pack = btn.getAttribute("data-pack") || "Paket";
       const msg = encodeURIComponent(`Halo, saya mau konsultasi untuk ${pack}. Bisa dibantu?`);
-      window.open(`https://wa.me/6281234567890?text=${msg}`, "_blank");
+      window.open(`https://wa.me/6281391832772?text=${msg}`, "_blank");
     });
   });
 });
